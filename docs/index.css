@@ -1,0 +1,14 @@
+@font-face {
+    font-family: clean;
+    src: url(clean.ttf);  
+}
+
+body {
+    background-color: #DCE0D9;
+       
+}
+h1, h2 {
+    font-family: clean;
+    color: #31081F;
+    font-weight: 600;
+}
