@@ -2,13 +2,48 @@
     font-family: clean;
     src: url(clean.ttf);  
 }
+@font-face {
+    font-family: aleo;
+    src: url(aleo.light.otf);
+}
 
 body {
     background-color: #DCE0D9;
+    color: #474747;
+    font-family: aleo;
        
 }
 h1, h2 {
     font-family: clean;
-    color: #31081F;
-    font-weight: 600;
+    color: #420A2A;
+    font-weight: bolder;
+}
+h1 {
+    font-size: 6em;
+    margin-bottom: .25em;
+    margin-top: auto;
+}
+h2 {
+    font-size: 4em;
+    margin-top: .25em;
+    margin-bottom: 1em;
+}
+.head {
+    margin: auto;
+    text-align: left;
+    float: left;
+    
+}
+.portrait {
+    max-width: 25%;
+    height: auto;
+    
+}
+a {
+    text-decoration: none;
+    color: inherit;
+}
+a:hover{
+    text-decoration: underline;
+   
 }
