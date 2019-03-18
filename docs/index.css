@@ -6,6 +6,7 @@
 body {
     background-color: #DCE0D9;
     color: #474747;
+    
 
        
 }
@@ -22,8 +23,12 @@ h1, h2, h3 {
     
 }
 .content {
-    margin: 1em;
+    padding-top: 3em;
     padding: 1em;
+    width: auto;
+	float: left;
+	margin-right:10%;
+	margin-left: 10%;
 }
 h1 {
     font-size: 5em;
