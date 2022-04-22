@@ -1,4 +1,4 @@
-# portfolio
+# resume
 ## gabi keane
 
-The repository hosting my writing portfolio site, using GitHub Pages.
+This repository hosts my resume.
