@@ -28,7 +28,7 @@ github_username:  gabikeane
 
 # Build settings
 
-remote_theme: hitchens-theme
+remote_theme: patdryburgh/hitchens
 ignore_theme_config: true
 plugins:
   - jekyll-feed
