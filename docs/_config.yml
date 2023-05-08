@@ -21,11 +21,9 @@
 title: Gabi Keane's academic site
 email: gab03 at stanford.edu
 description: Gabi Keane's academic portfolio site.
-baseurl: "/portfolio/" # the subpath of your site, e.g. /blog
-url: "https://gabikeane.github.io" # the base hostname & protocol for your 
-site, 
-e.g. http://example.com
-domain: https://gabikeane.github.io
+baseurl: "/portfolio/"
+url: "https://gabikeane.github.io"
+domain: "https://gabikeane.github.io"
 github_username:  gabikeane
 
 # Build settings
