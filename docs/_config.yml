@@ -20,9 +20,7 @@
 
 title: Gabi Keane's academic site
 email: gab03 at stanford.edu
-description: >- # this means to ignore newlines until "baseurl:"
-Gabi Keane's academic portfolio site.
-
+description: Gabi Keane's academic portfolio site.
 baseurl: "/portfolio/" # the subpath of your site, e.g. /blog
 url: "https://gabikeane.github.io" # the base hostname & protocol for your 
 site, 
