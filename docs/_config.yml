@@ -27,7 +27,9 @@ domain: "https://gabikeane.github.io"
 github_username:  gabikeane
 
 # Build settings
+
 remote_theme: hitchens-theme
+ignore_theme_config: true
 plugins:
   - jekyll-feed
 
